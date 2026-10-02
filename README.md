@@ -10,9 +10,9 @@
 
 <p align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antibypass-shortxlinks)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antigoo)
 
-[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antibypass-shortxlinks)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antigoo)
 [![Telegram Support](https://img.shields.io/badge/Telegram-Support-229ED9?logo=telegram&logoColor=white)](https://t.me/JDSOwner)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-229ED9?logo=telegram&logoColor=white)](https://t.me/jackDstore)
 
@@ -46,7 +46,7 @@
 
 Click the button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antibypass-shortxlinks)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Jack0pirate/JDS-antigoo)
 
 Then:
 
